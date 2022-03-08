@@ -16,6 +16,7 @@ tags:
 - software
 - systems
 permalink: "/writing-a-programming-book-in-2021/"
+layout: splash
 ---
 It is said that there are three things you must do in your lifetime: plant a tree, have a child, and write a book. I recently finished the last one. Nevertheless, I wrote a programming book. A programming book in the 21st century with all those wonderful online resources you can find for free? Yes. Are you some sort of romantic fool? Maybe. Let serve these lines to describe my experience and give you some do's and dont's that can save your time.
 

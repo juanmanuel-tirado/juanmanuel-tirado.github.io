@@ -14,6 +14,7 @@ tags:
 permalink: "/graph-processing-a-problem-with-no-clear-victor/"
 excerpt: "Even though graph processing is a problem in computer science since its very
   beginning, there is not a clear victor among all available solutions. Why?"
+layout: splash
 ---
 We all depend on the Internet to search for potential solutions to technical problems. For example, for big data problems after five minutes in Google you will find out that Spark may help you. Even if you have no idea about what is Spark you will come across this name. Something similar occurs to TensorFlow when searching for deep learning solutions,  Kubernetes for cloud, Docker for containers... **It seems that there is always one platform/framework/library for every buzzword in computer science**. However, try to look for a graph processing solution. You will find out that there is **no clear victor**. And I find this quite surprising.
 

@@ -12,7 +12,7 @@ tags:
 - structures
 mermaid: true
 use_math: true
-layout: posts
+layout: splash
 permalink: "/the-many-challenges-of-graph-processing/"
 excerpt: "What are the main issues graph processing has to deal with? Serve these lines
   as an appetizer for those curious minds out there."

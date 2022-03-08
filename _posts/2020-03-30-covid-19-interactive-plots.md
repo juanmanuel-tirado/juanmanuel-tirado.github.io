@@ -10,6 +10,7 @@ tags:
 - plotly
 - python
 permalink: "/covid-19-interactive-plots/"
+layout: splash
 ---
 <p><!-- wp:paragraph --></p>
 <p>This is the continuation of my series about how to manipulate Covid-19 data with Python (first entry <a href="https://jmtirado.net/covid19-visualization/" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)">here</a>). This post adds some extra complexity and introduces some interesting options to define interactive plots.</p>

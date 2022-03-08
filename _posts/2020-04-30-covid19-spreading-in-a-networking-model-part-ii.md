@@ -15,7 +15,7 @@ permalink: "/covid19-spreading-in-a-networking-model-part-ii/"
 excerpt: "Design a network based model to predict when a country is infected by Covid19
   using air traffic data."
 use_math: true
-layout: posts
+layout: splash
 ---
 
 The original Jupyter notebook can be found [here](https://github.com/juanmanuel-tirado/python/blob/master/covid19/Covid19%20spreading%20network%20(part%20II).ipynb).

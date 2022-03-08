@@ -12,6 +12,7 @@ permalink: "/six-tips-before-you-start-using-istio/"
 excerpt: "Istio can help you to simplify the management of your K8s services. However,
   it can be a bit intimidating. Check out my six tips before you decide to give it
   a try!"
+layout: splash
 ---
 
 A forgotten aspect of Kubernetes deployments is access control. Kubernetes assumes services are isolated depending on the namespace they belong to. This is a simple rule of thumb that may be good enough for several solutions. However, not all the services may be accessed from any service in the same namespace.

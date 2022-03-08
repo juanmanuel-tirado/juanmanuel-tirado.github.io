@@ -1,9 +1,10 @@
 ---
-layout: pages
 title: BUILD SYSTEMS with GO
 date: 2021-04-05 06:57:36.000000000 +02:00
 
 permalink: "/build-systems-with-go/"
+layout: single
+classes: wide
 ---
 
 
