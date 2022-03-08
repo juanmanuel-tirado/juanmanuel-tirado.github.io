@@ -1,11 +1,6 @@
 ---
 title: "Build Systems with Go v0.2.0 is here!!!"
 date: 2021-05-14 08:17:38.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - go
 - Golang
@@ -15,25 +10,9 @@ tags:
 - go
 - golang
 - programming
-meta:
-_is_githuber_markdown: '1'
-_edit_last: '2'
-_githuber_prismjs: ''
-_githuber_highlightjs: ''
-_is_githuber_sequence: ''
-_is_githuber_flow_chart: ''
-_is_githuber_mermaid: ''
-_is_githuber_katex: ''
-_is_githuber_mathjax: ''
-_thumbnail_id: '375'
-author:
-login: juanmanuel.tirado
-email: juanmanuel.tirado@gmail.com
-display_name: juanmanuel.tirado
-first_name: ''
-last_name: ''
 permalink: "/build-systems-with-go-v0-2-0-is-here/"
 excerpt: Build Systems with Go v0.2.0 has been released.
+layout: splash
 ---
 Build Systems with Go has exceeded all my expectations. Actually, I started the book with no expectations or predefined goals.
 

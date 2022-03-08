@@ -12,7 +12,8 @@ tags:
 - programming
 permalink: "/writing-a-programming-book-in-2021-part-ii/"
 excerpt: 'This post is a continuation of a previous where I explained some aspects
-of my experience writing and self-publishing a programming book. '
+of my experience writing and self-publishing a programming book.'
+layout: splash
 ---
 This post is a continuation of a previous [one](https://jmtirado.net/writing-a-programming-book-in-2021/) where I explained some aspects of my experience writing and self-publishing a programming book. Well, yesterday the blog multiplied its traffic by 100,000. I thought the server was under attack. Someone sent the link to Hacker News and the traffic started flowing. Thanks to all those who took their time to read the post. There was a good number of [comments](https://news.ycombinator.com/item?id=27129518) about self-publishing, programming books, publication-quality, editors, etc. Some of the comments were written by other published authors and shared their experiences and concerns. Comments were respectful, something I do really appreciate in these times of trolls and bullying.
 

@@ -11,6 +11,10 @@ tags:
 permalink: "/the-best-programming-language/"
 excerpt: "Developers are wrong when they compared programming languages when looking
 for the best programming language."
+layout: splash
+clases:
+    - landing
+    - dark-theme
 ---
 
 I recently came across a collection of drawbacks, missing points, and errors in the Go language ([here](https://github.com/ksimka/go-is-not-good)). Taking a look at this collection I found interesting points of view from other developers about the language itself. I found it surprising how the main design aspects in Go (no OOP, simplicity, lack of inheritance, etc.) are considered design errors and missing features. Reading all this, it came to my mind the first comments I read about Python more than ten years ago: it is very slow, no brackets are you kidding? it is untyped, etc. No need to say that Python is one of the most versatile languages out there.

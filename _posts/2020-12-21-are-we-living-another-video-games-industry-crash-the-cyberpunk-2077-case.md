@@ -15,6 +15,7 @@ tags:
 permalink: "/are-we-living-another-video-games-industry-crash-the-cyberpunk-2077-case/"
 excerpt: The most awaited video game of 2020 is a collection of bugs with a frustrating
   user experience. This is not something new in the video game industry.
+layout: splash
 ---
 Cyberpunk 2077 is probably the most awaited game from this pandemic 2020. A lot of expectation has been around this game since it was first announced back in 2012. In 2018 it was the sensation during the E3 (the most important video games fair in the world) winning several awards. The next year, in 2019 many lines were written discussing the pros and cons of this game. Initially, the game was announced to be released in April 2020 unfortunately, the Covid-19 delayed the release. Finally, the game was released on December 10th with a huge number of sales, hundreds of thousands of fans around the world playing like maniacs, and successful reviews from specialized media. However, fans are asking for reimbursement. Why?
 

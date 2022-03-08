@@ -15,7 +15,7 @@ tags:
 permalink: "/covid19-spreading-in-a-networking-model-part-i/"
 excerpt: "Has air traffic something to do with Covid19? Learn some tools to explore
   the impact of passengers in pandemics using networks."
-layout: posts
+layout: splash
 use_math: true
 ---
 

@@ -12,6 +12,7 @@ tags:
 - golang
 - tips
 permalink: "/shell-completion-with-cobra-and-go/"
+layout: splash
 ---
 
 You probably use a CLI on a daily basis. Depending on the solution the CLI works, the number of available options can be overwhelming. Because no visual recognition is available, we depend on the help to find the correct arguments. An appealing extension to CLIs is to provide users with shell completion. This simplifies the life of the user by displaying the expected arguments of the command without interruptions. This post explains how to get a shell completion CLI in Go using the Cobra library.

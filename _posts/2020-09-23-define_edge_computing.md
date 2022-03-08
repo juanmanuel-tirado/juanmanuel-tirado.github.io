@@ -12,6 +12,7 @@ tags:
 permalink: "/define_edge_computing/"
 excerpt: "Edge Computing promises millions of dollars of revenue. However, we do not
 yet have a definition of what it is."
+layout: splash
 ---
 The first time I heard about edge computing was back in 2015. Since then, I have been working for startups to enable
 distributed data-driven solutions for the edge. It looks like everybody (or almost everybody) is aware of what edge

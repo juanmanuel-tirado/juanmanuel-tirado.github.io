@@ -15,6 +15,7 @@ tags:
 - software
 permalink: "/using-the-kafka-rest-api-with-go/"
 excerpt: "Learn how to build your own Kafka driver in Go using the Kafka API REST proxy."
+layout: splash
 ---
 This post is an adaption of a fragment extracted from my book ***Build systems with Go: everything a Gopher must know"***. You can find more details [here](https://jmtirado.net/build-systems-with-go/).
 

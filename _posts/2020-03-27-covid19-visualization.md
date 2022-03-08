@@ -17,6 +17,7 @@ excerpt: 'This is the first post of a series of publications describing solution
   using Python with Pandas for data management, and Matplotlib or Seaborn for data
   visualization. The input data used corresponds to the Covid-19 virus propagation
   time series. '
+layout: splash
 ---
 
 This is the first post of a series of publications describing solutions used in data science. The content is self-explained in a Jupyter Notebook available at my [Github account](https://github.com/juanmanuel-tirado/python/blob/master/covid19/Covid19%20plots%20visualization.ipynb). This first post explains different ways to display time series using Python with Pandas for data management, and Matplotlib or Seaborn for data visualization. The input data used corresponds to the Covid-19 virus propagation time series. 

@@ -11,6 +11,7 @@ tags:
 permalink: "/kubernetes-services-access-control-with-istio/"
 excerpt: Start to control the access to your K8s services using Istio authorization
   policies to make the most out of your deployments.
+layout: splash
 ---
 
 A forgotten aspect of Kubernetes deployments is access control. Kubernetes assumes services are isolated depending on the namespace they belong to. This is a simple rule of thumb that may be good enough for several solutions. However, not all the services may be accessed from any service in the same namespace.
