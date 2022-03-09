@@ -11,7 +11,10 @@ tags:
 permalink: "/what-can-borges-teach-you-about-overfitting/"
 excerpt: "Borges described in Funes the memorious the problem of hypermnesias. We can
   use Borges tale to understand what is overfitting."
-layout: splash
+layout: single
+clases:
+    - wide
+    - dark-theme
 ---
 [Jorge Luis Borges](https://es.wikipedia.org/wiki/Jorge_Luis_Borges) (1899-1986) was a brilliant writter and one of the most influential authors of all times. His tales are a must-read for anyone interested in science/science-fiction. But what can Borges teach you about overfitting?
 

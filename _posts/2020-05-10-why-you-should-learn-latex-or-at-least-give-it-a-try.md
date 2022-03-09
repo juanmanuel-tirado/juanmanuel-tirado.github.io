@@ -13,7 +13,10 @@ ever done. It has been around for more than thirty years with two Turing awarded
 researchers directly participating in its design and implementation. LaTeX must
 have something special. Hopefully, after reading this post you will consider giving
 it a try."
-layout: splash
+layout: single
+clases:
+    - wide
+    - dark-theme
 ---
 If you have to write down a document you will run your default text processor (probably MS Word) and you will not
 consider any other option. This processor will fulfil all your needs. I would say that 95% of users out there has no

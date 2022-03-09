@@ -13,7 +13,10 @@ excerpt: Humans are wired for prejudice. When we start coding in a programming l
   most. Sometimes it is difficult to put these features into the corresponding context
   and understanding the reasons why they were designed in such way. I enumerate some
   of the features I found more weirder when starting my Go experience.
-layout: splash
+layout: single
+clases:
+    - wide
+    - dark-theme
 ---
 It has been three years now since I started coding in Go. I think it is time for a bit of retrospective and I would like to enumerate some of the aspects I found most "weird" during my Golang learning process.
 

@@ -12,7 +12,10 @@ tags:
 - programming
 permalink: "/build-systems-with-go-v0-2-0-is-here/"
 excerpt: Build Systems with Go v0.2.0 has been released.
-layout: splash
+layout: single
+clases:
+    - wide
+    - dark-theme
 ---
 Build Systems with Go has exceeded all my expectations. Actually, I started the book with no expectations or predefined goals.
 

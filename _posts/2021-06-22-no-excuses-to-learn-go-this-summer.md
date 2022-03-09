@@ -12,7 +12,6 @@ tags:
 - programming
 permalink: "/no-excuses-to-learn-go-this-summer/"
 excerpt: "To celebrate the Summer, Build Systems with Go is now at 6.99$"
-layout: splash
 ---
 
 The Summer can be a perfect time to learn Go. Take your ebook to the beach and checkout all the examples and

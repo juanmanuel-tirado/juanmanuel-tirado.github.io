@@ -16,7 +16,10 @@ permalink: "/covid19-spreading-in-a-networking-model-part-i/"
 excerpt: "Has air traffic something to do with Covid19? Learn some tools to explore
   the impact of passengers in pandemics using networks."
 layout: splash
-use_math: true
+layout: single
+clases:
+    - wide
+    - dark-theme
 ---
 
 This is a reproduction of a Jupyter notebook you can find [here](https://github.com/juanmanuel-tirado/python/blob/master/covid19/Covid19%20spreading%20network%20(part%20I).ipynb)

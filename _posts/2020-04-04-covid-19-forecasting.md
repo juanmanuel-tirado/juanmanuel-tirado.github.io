@@ -15,7 +15,10 @@ permalink: "/covid-19-forecasting/"
 excerpt: "This is the third part of our series about Covid19 data analysis. We introduce
   some practical examples of univariate time series forecasting."
 use_math: true
-layout: splash
+layout: single
+clases:
+    - wide
+    - dark-theme
 ---
 
 # Introduction

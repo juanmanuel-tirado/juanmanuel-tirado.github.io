@@ -15,11 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: jmtirado.net
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+description: JM Tirado personal website.
+twitter_username: jmtirado
 github_username: juanmanuel-tirado
 minimal_mistakes_skin: contrast
 search: true
@@ -60,11 +57,11 @@ plugins:
 author:
   name: 'Juan M. Tirado'
   avatar: '/assets/images/bio-photo.jpg'
-  bio: 'Computer scientist interested in data and large scale distributed systems. I enjoy music, mountaneering, and tapas in no particular order'
+  bio: 'Computer scientist interested in data and large scale distributed systems. I enjoy music, mountaneering, and tapas in no particular order.'
   links:
     - label: 'Website'
       icon: 'fas fa-fw fa-link'
-      url: 'https://'
+      url: 'https://jmtirado.net'
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
       url: 'https://twitter.com/jmtirado'
@@ -82,23 +79,18 @@ footer:
   links:
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/jmtirado'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/'
+      url: 'https://github.com/juanmanuel-tirado'
+    - label: 'LinkedIn'
+      icon: 'fab fa-fw fa-linkedin'
+      url: 'https://www.linkedin.com/in/juan-tirado'
+    - label: 'Medium'
+      icon: 'fab fa-fw fa-medium'
+      url: 'https://juanmanuel-tirado.medium.com'
 
 defaults:
-  # _posts
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: splash
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: '_pages'
@@ -106,6 +98,18 @@ defaults:
     values:
       layout: splash
       author_profile: true
+  # _posts
+  - scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
