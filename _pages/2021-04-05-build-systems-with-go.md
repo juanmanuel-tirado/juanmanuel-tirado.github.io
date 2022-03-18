@@ -7,6 +7,8 @@ layout: single
 classes: wide
 ---
 
+<a href="https://www.amazon.com/dp/B091FX4CZX" rel="Build systems with Go">![Build systems with Go]({{ site.baseurl
+  }}/assets/2021/06/buildsystems-1.png)</a>
 
 # Why this book?
 
