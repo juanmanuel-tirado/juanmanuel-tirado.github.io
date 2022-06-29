@@ -107,8 +107,6 @@ emotions are unpredictable. That lovely person who was genuinely interested in y
 ideas may end up being the person you hate the most. However, from a more practical
 perspective, there are some items you may want to check.
 
---Continue revisiting from here--
-
 * **List of publications**. I know you are probably new to the world of research but this
 is the most basic indicator of how proficient is a researcher. Google your
 potential advisor or directly search him in Google Research. Does he have papers? How many? Do the
