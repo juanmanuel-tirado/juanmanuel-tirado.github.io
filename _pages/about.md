@@ -17,4 +17,4 @@ I collect a large a mount of examples, solutions, and ideas on a daily basis. Th
 
 # How can I contact you?
 
-You can contact me commenting any publication. If you want to contact me for professional purposes use LinkedIn.
+You can contact me through social media. If you want to contact me for professional purposes use LinkedIn.

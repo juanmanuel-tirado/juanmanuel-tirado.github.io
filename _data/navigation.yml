@@ -5,6 +5,8 @@ main:
     url: /posts/
   # - title: 'Categories'
   #  url: /categories/
+  - title: 'Publications'
+    url: /publications/
   - title: 'Tags'
     url: /tags/
   - title: 'About'
