@@ -20,6 +20,8 @@ twitter_username: jmtirado
 github_username: juanmanuel-tirado
 minimal_mistakes_skin: contrast
 search: true
+teaser: /assets/images/bio-photo.jpg
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -117,6 +119,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
 
 category_archive:
   type: liquid
