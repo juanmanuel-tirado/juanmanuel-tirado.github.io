@@ -3,26 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://jmtirado.net/about/</loc>
-    <lastmod>2023-12-19T15:29:17+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://jmtirado.net/posts/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jmtirado.net/categories/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jmtirado.net/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/posts/20231220_hugo_migration/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/categories/opinion/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/tags/optinion/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/publications/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/tags/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/about/</loc>
+    <lastmod>2023-12-19T15:29:17+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,19 +69,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://jmtirado.net/categories/opinion/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://jmtirado.net/categories/programming/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://jmtirado.net/tags/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -65,30 +83,6 @@
   <url>
     <loc>https://jmtirado.net/emacs_is_my_default_editor_again/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://jmtirado.net/categories/development/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://jmtirado.net/categories/management/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://jmtirado.net/categories/software/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://jmtirado.net/one-on-one-meetings/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -112,6 +106,12 @@
   </url>
   <url>
     <loc>https://jmtirado.net/opensouthcode23/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/categories/software/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -221,6 +221,12 @@
   <url>
     <loc>https://jmtirado.net/build-systems-with-go-v0-2-0-is-here/</loc>
     <lastmod>2021-05-14T08:17:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jmtirado.net/categories/dark-theme/</loc>
+    <lastmod>2021-05-13T11:07:36+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -381,7 +387,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://jmtirado.net/the-many-challenges-of-graph-processing/</loc>
+    <loc>https://jmtirado.net/posts/2020-07-22-the-many-challenges-of-graph-processing/</loc>
     <lastmod>2020-07-22T09:10:37+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -471,7 +477,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://jmtirado.net/why-you-should-learn-latex-or-at-least-give-it-a-try/</loc>
+    <loc>https://jmtirado.net/posts/2020-05-10-why-you-should-learn-latex-or-at-least-give-it-a-try/</loc>
     <lastmod>2020-05-10T18:35:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
