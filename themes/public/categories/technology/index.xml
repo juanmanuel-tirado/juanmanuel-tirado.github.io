@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on jmtirado.net</title>
+    <link>https://jmtirado.net/categories/technology/</link>
+    <description>Recent content in Technology on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Emacs is my default programming editor... again</title>
+      <link>https://jmtirado.net/emacs_is_my_default_editor_again/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/emacs_is_my_default_editor_again/</guid>
+      <description>If you&amp;rsquo;re a developer or simply an open-source adopter you have probably come across Emacs. For the eyes of the inexperienced an incomprehensible bunch of letters in an ugly layout, for the experienced an awesome productivity tool.</description>
+      
+    </item>
+    
+    <item>
+      <title>No excuses to learn Go this Summer</title>
+      <link>https://jmtirado.net/no-excuses-to-learn-go-this-summer/</link>
+      <pubDate>Tue, 22 Jun 2021 16:12:28 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/no-excuses-to-learn-go-this-summer/</guid>
+      <description>The Summer can be a perfect time to learn Go. Take your ebook to the beach and checkout all the examples and explanations from &amp;ldquo;Build Systems with Go: everything a Gopher must know&amp;rdquo;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Shell completion with Cobra and Go</title>
+      <link>https://jmtirado.net/shell-completion-with-cobra-and-go/</link>
+      <pubDate>Thu, 27 May 2021 10:50:26 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/shell-completion-with-cobra-and-go/</guid>
+      <description>You probably use a CLI on a daily basis. Depending on the solution the CLI works, the number of available options can be overwhelming. Because no visual recognition is available, we depend on the help to find the correct arguments.</description>
+      
+    </item>
+    
+    <item>
+      <title>Using the Kafka REST API with Go</title>
+      <link>https://jmtirado.net/using-the-kafka-rest-api-with-go/</link>
+      <pubDate>Fri, 16 Apr 2021 10:03:07 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/using-the-kafka-rest-api-with-go/</guid>
+      <description>This post is an adaption of a fragment extracted from my book Build systems with Go: everything a Gopher must know&amp;quot;. You can find more details here.
+Apache Kafka has demonstrated to be a scalable solution and it is widely adopted as a publish/subscribe event streaming platform.</description>
+      
+    </item>
+    
+    <item>
+      <title>Are we living another video games industry crash? The Cyberpunk 2077 case</title>
+      <link>https://jmtirado.net/are-we-living-another-video-games-industry-crash-the-cyberpunk-2077-case/</link>
+      <pubDate>Mon, 21 Dec 2020 15:42:55 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/are-we-living-another-video-games-industry-crash-the-cyberpunk-2077-case/</guid>
+      <description>Cyberpunk 2077 is probably the most awaited game from this pandemic 2020. A lot of expectation has been around this game since it was first announced back in 2012. In 2018 it was the sensation during the E3 (the most important video games fair in the world) winning several awards.</description>
+      
+    </item>
+    
+    <item>
+      <title>We Have to Define What is Edge Computing</title>
+      <link>https://jmtirado.net/define_edge_computing/</link>
+      <pubDate>Wed, 23 Sep 2020 08:45:11 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/define_edge_computing/</guid>
+      <description>The first time I heard about edge computing was back in 2015. Since then, I have been working for startups to enable distributed data-driven solutions for the edge. It looks like everybody (or almost everybody) is aware of what edge computing is.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

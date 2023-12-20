@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on jmtirado.net</title>
+    <link>https://jmtirado.net/categories/books/</link>
+    <description>Recent content in books on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts after one year using Amazon&#39;s KDP</title>
+      <link>https://jmtirado.net/one-year-kdp/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/one-year-kdp/</guid>
+      <description>Time flies by. That&amp;rsquo;s a known fact. It&amp;rsquo;s been more than a year since I published [Build Systems with Go]({% link _pages/2021-04-05-build-systems-with-go.md %}). I have already talked about [how does it feel to write a programming book]({% post_url 2021-04-05-writing-a-programming-book-in-2021 %}).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networks on jmtirado.net</title>
+    <link>https://jmtirado.net/tags/networks/</link>
+    <description>Recent content in networks on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Fri, 17 Apr 2020 11:42:27 +0000</lastBuildDate><atom:link href="https://jmtirado.net/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid19 spreading in a networking model (part I)</title>
+      <link>https://jmtirado.net/covid19-spreading-in-a-networking-model-part-i/</link>
+      <pubDate>Fri, 17 Apr 2020 11:42:27 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/covid19-spreading-in-a-networking-model-part-i/</guid>
+      <description>This is a reproduction of a Jupyter notebook you can find here
+Introduction # The Covid19 has imposed a lot of pressure on epidemiologists to come up with models that can explain the impact of pandemics.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

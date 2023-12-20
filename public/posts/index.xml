@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jmtirado.net</title>
+    <link>https://jmtirado.net/posts/</link>
+    <description>Recent content on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Emacs is my default programming editor... again</title>
+      <link>https://jmtirado.net/emacs_is_my_default_editor_again/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/emacs_is_my_default_editor_again/</guid>
+      <description>If you&amp;rsquo;re a developer or simply an open-source adopter you have probably come across Emacs. For the eyes of the inexperienced an incomprehensible bunch of letters in an ugly layout, for the experienced an awesome productivity tool.</description>
+      
+    </item>
+    
+    <item>
+      <title>Why 1:1 meetings must be taken seriously</title>
+      <link>https://jmtirado.net/one-on-one-meetings/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/one-on-one-meetings/</guid>
+      <description>I&amp;rsquo;ve been reading The Manager&amp;rsquo;s Path from Camille Fournier. This is a classic resource for those looking for some advices about management, specially in the software development sector. I&amp;rsquo;m not going to comment the book, you can already find good reviews all around there.</description>
+      
+    </item>
+    
+    <item>
+      <title>OpenSouthCode 2023</title>
+      <link>https://jmtirado.net/opensouthcode23/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/opensouthcode23/</guid>
+      <description>I had the honour of attending the OpenSouthCode 2023 held at the beatiful Málaga between June 9th and 10th. This is my brief summary of the event, and an invitation for everybody to attend this community-driven event.</description>
+      
+    </item>
+    
+    <item>
+      <title>Questions you should ask before starting a PhD</title>
+      <link>https://jmtirado.net/questions-before-starting-phd/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/questions-before-starting-phd/</guid>
+      <description>This post is dedicated to all of you who are thinking about pursuing a PhD. If you have ever applied for a job, you would probably know that you are expected to do your homework to maximize your opportunities and be sure that you are applying for the correct position.</description>
+      
+    </item>
+    
+    <item>
+      <title>Thoughts after one year using Amazon&#39;s KDP</title>
+      <link>https://jmtirado.net/one-year-kdp/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/one-year-kdp/</guid>
+      <description>Time flies by. That&amp;rsquo;s a known fact. It&amp;rsquo;s been more than a year since I published [Build Systems with Go]({% link _pages/2021-04-05-build-systems-with-go.md %}). I have already talked about [how does it feel to write a programming book]({% post_url 2021-04-05-writing-a-programming-book-in-2021 %}).</description>
+      
+    </item>
+    
+    <item>
+      <title>Migration from Wordpress to Jekyll</title>
+      <link>https://jmtirado.net/migration-wordpress-jekyll/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/migration-wordpress-jekyll/</guid>
+      <description>This blog was born almost two years ago during the Covid-19 lockdown. At that time I decided to use a hosted WordPress solution. I have to say that I did not spend too much time checking alternatives.</description>
+      
+    </item>
+    
+    <item>
+      <title>No excuses to learn Go this Summer</title>
+      <link>https://jmtirado.net/no-excuses-to-learn-go-this-summer/</link>
+      <pubDate>Tue, 22 Jun 2021 16:12:28 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/no-excuses-to-learn-go-this-summer/</guid>
+      <description>The Summer can be a perfect time to learn Go. Take your ebook to the beach and checkout all the examples and explanations from &amp;ldquo;Build Systems with Go: everything a Gopher must know&amp;rdquo;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Shell completion with Cobra and Go</title>
+      <link>https://jmtirado.net/shell-completion-with-cobra-and-go/</link>
+      <pubDate>Thu, 27 May 2021 10:50:26 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/shell-completion-with-cobra-and-go/</guid>
+      <description>You probably use a CLI on a daily basis. Depending on the solution the CLI works, the number of available options can be overwhelming. Because no visual recognition is available, we depend on the help to find the correct arguments.</description>
+      
+    </item>
+    
+    <item>
+      <title>Build Systems with Go v0.2.0 is here!!!</title>
+      <link>https://jmtirado.net/build-systems-with-go-v0-2-0-is-here/</link>
+      <pubDate>Fri, 14 May 2021 08:17:38 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/build-systems-with-go-v0-2-0-is-here/</guid>
+      <description>Build Systems with Go has exceeded all my expectations. Actually, I started the book with no expectations or predefined goals.
+It has been for one month the number one in the Amazon new releases in the category of distributed systems.</description>
+      
+    </item>
+    
+    <item>
+      <title>Writing a Programming Book in 2021 (part II)</title>
+      <link>https://jmtirado.net/writing-a-programming-book-in-2021-part-ii/</link>
+      <pubDate>Thu, 13 May 2021 11:07:36 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/writing-a-programming-book-in-2021-part-ii/</guid>
+      <description>This post is a continuation of a previous one where I explained some aspects of my experience writing and self-publishing a programming book. Well, yesterday the blog multiplied its traffic by 100,000.</description>
+      
+    </item>
+    
+    <item>
+      <title>Using the Kafka REST API with Go</title>
+      <link>https://jmtirado.net/using-the-kafka-rest-api-with-go/</link>
+      <pubDate>Fri, 16 Apr 2021 10:03:07 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/using-the-kafka-rest-api-with-go/</guid>
+      <description>This post is an adaption of a fragment extracted from my book Build systems with Go: everything a Gopher must know&amp;quot;. You can find more details here.
+Apache Kafka has demonstrated to be a scalable solution and it is widely adopted as a publish/subscribe event streaming platform.</description>
+      
+    </item>
+    
+    <item>
+      <title>Writing a Programming Book in 2021</title>
+      <link>https://jmtirado.net/writing-a-programming-book-in-2021/</link>
+      <pubDate>Mon, 05 Apr 2021 11:47:17 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/writing-a-programming-book-in-2021/</guid>
+      <description>It is said that there are three things you must do in your lifetime: plant a tree, have a child, and write a book. I recently finished the last one. Nevertheless, I wrote a programming book.</description>
+      
+    </item>
+    
+    <item>
+      <title>Are we living another video games industry crash? The Cyberpunk 2077 case</title>
+      <link>https://jmtirado.net/are-we-living-another-video-games-industry-crash-the-cyberpunk-2077-case/</link>
+      <pubDate>Mon, 21 Dec 2020 15:42:55 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/are-we-living-another-video-games-industry-crash-the-cyberpunk-2077-case/</guid>
+      <description>Cyberpunk 2077 is probably the most awaited game from this pandemic 2020. A lot of expectation has been around this game since it was first announced back in 2012. In 2018 it was the sensation during the E3 (the most important video games fair in the world) winning several awards.</description>
+      
+    </item>
+    
+    <item>
+      <title>We Have to Define What is Edge Computing</title>
+      <link>https://jmtirado.net/define_edge_computing/</link>
+      <pubDate>Wed, 23 Sep 2020 08:45:11 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/define_edge_computing/</guid>
+      <description>The first time I heard about edge computing was back in 2015. Since then, I have been working for startups to enable distributed data-driven solutions for the edge. It looks like everybody (or almost everybody) is aware of what edge computing is.</description>
+      
+    </item>
+    
+    <item>
+      <title>Log your Go projects with Zerolog</title>
+      <link>https://jmtirado.net/338-2/</link>
+      <pubDate>Fri, 18 Sep 2020 16:21:52 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/338-2/</guid>
+      <description>In the 21st century, any decent software project must use a logger. One of the worst presents a software engineer can receive is a project using print statements. This is wrong.</description>
+      
+    </item>
+    
+    <item>
+      <title>Golang features newbies (and not so newbies) may find weird</title>
+      <link>https://jmtirado.net/golang-features-newbies-and-not-so-newbies-may-find-weird/</link>
+      <pubDate>Mon, 07 Sep 2020 16:41:05 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/golang-features-newbies-and-not-so-newbies-may-find-weird/</guid>
+      <description>It has been three years now since I started coding in Go. I think it is time for a bit of retrospective and I would like to enumerate some of the aspects I found most &amp;ldquo;weird&amp;rdquo; during my Golang learning process.</description>
+      
+    </item>
+    
+    <item>
+      <title>The many challenges of graph processing</title>
+      <link>https://jmtirado.net/the-many-challenges-of-graph-processing/</link>
+      <pubDate>Wed, 22 Jul 2020 09:10:37 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/the-many-challenges-of-graph-processing/</guid>
+      <description>In a previous post I exposed my opinion about the lack of a clear platform/solution/framework/architecture for graph processing. However, what are the main issues graph processing has to deal with? Serve these lines as an appetizer for the curious minds out there.</description>
+      
+    </item>
+    
+    <item>
+      <title>Graph processing: a problem with no clear victor</title>
+      <link>https://jmtirado.net/graph-processing-a-problem-with-no-clear-victor/</link>
+      <pubDate>Thu, 16 Jul 2020 09:30:22 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/graph-processing-a-problem-with-no-clear-victor/</guid>
+      <description>We all depend on the Internet to search for potential solutions to technical problems. For example, for big data problems after five minutes in Google you will find out that Spark may help you.</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes services access control with Istio</title>
+      <link>https://jmtirado.net/kubernetes-services-access-control-with-istio/</link>
+      <pubDate>Thu, 04 Jun 2020 09:20:25 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/kubernetes-services-access-control-with-istio/</guid>
+      <description>A forgotten aspect of Kubernetes deployments is access control. Kubernetes assumes services are isolated depending on the namespace they belong to. This is a simple rule of thumb that may be good enough for several solutions.</description>
+      
+    </item>
+    
+    <item>
+      <title>Six tips before you start using Istio</title>
+      <link>https://jmtirado.net/six-tips-before-you-start-using-istio/</link>
+      <pubDate>Tue, 26 May 2020 11:26:29 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/six-tips-before-you-start-using-istio/</guid>
+      <description>A forgotten aspect of Kubernetes deployments is access control. Kubernetes assumes services are isolated depending on the namespace they belong to. This is a simple rule of thumb that may be good enough for several solutions.</description>
+      
+    </item>
+    
+    <item>
+      <title>What can Borges teach you about overfitting?</title>
+      <link>https://jmtirado.net/what-can-borges-teach-you-about-overfitting/</link>
+      <pubDate>Thu, 14 May 2020 15:24:02 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/what-can-borges-teach-you-about-overfitting/</guid>
+      <description>Jorge Luis Borges (1899-1986) was a brilliant writter and one of the most influential authors of all times. His tales are a must-read for anyone interested in science/science-fiction. But what can Borges teach you about overfitting?</description>
+      
+    </item>
+    
+    <item>
+      <title>Why should you learn LaTeX, or at least give it a try?</title>
+      <link>https://jmtirado.net/why-you-should-learn-latex-or-at-least-give-it-a-try/</link>
+      <pubDate>Sun, 10 May 2020 18:35:13 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/why-you-should-learn-latex-or-at-least-give-it-a-try/</guid>
+      <description>If you have to write down a document you will run your default text processor (probably MS Word) and you will not consider any other option. This processor will fulfil all your needs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid19 spreading in a networking model (part II)</title>
+      <link>https://jmtirado.net/covid19-spreading-in-a-networking-model-part-ii/</link>
+      <pubDate>Thu, 30 Apr 2020 15:15:50 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/covid19-spreading-in-a-networking-model-part-ii/</guid>
+      <description>The original Jupyter notebook can be found here.
+Introduction # This notebook is the second part of our analysis of how air traffic may have contributed to spread the Covid19 virus.</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid19 spreading in a networking model (part I)</title>
+      <link>https://jmtirado.net/covid19-spreading-in-a-networking-model-part-i/</link>
+      <pubDate>Fri, 17 Apr 2020 11:42:27 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/covid19-spreading-in-a-networking-model-part-i/</guid>
+      <description>This is a reproduction of a Jupyter notebook you can find here
+Introduction # The Covid19 has imposed a lot of pressure on epidemiologists to come up with models that can explain the impact of pandemics.</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid-19 forecasting</title>
+      <link>https://jmtirado.net/covid-19-forecasting/</link>
+      <pubDate>Sat, 04 Apr 2020 09:07:15 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/covid-19-forecasting/</guid>
+      <description>Introduction # This is the third part of our series about Covid19 data analysis. This series is inspired after the proposed Kaggle challenge. This notebook introduces some practical examples of univariate time series forecasting.</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid-19 interactive plots</title>
+      <link>https://jmtirado.net/covid-19-interactive-plots/</link>
+      <pubDate>Mon, 30 Mar 2020 17:37:09 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/covid-19-interactive-plots/</guid>
+      <description>This is the continuation of my series about how to manipulate Covid-19 data with Python (first entry here). This post adds some extra complexity and introduces some interesting options to define interactive plots.</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid-19 visualization</title>
+      <link>https://jmtirado.net/covid19-visualization/</link>
+      <pubDate>Fri, 27 Mar 2020 18:09:57 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/covid19-visualization/</guid>
+      <description>This is the first post of a series of publications describing solutions used in data science. The content is self-explained in a Jupyter Notebook available at my Github account. This first post explains different ways to display time series using Python with Pandas for data management, and Matplotlib or Seaborn for data visualization.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

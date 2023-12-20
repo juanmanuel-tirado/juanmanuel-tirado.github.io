@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on jmtirado.net</title>
+    <link>https://jmtirado.net/categories/community/</link>
+    <description>Recent content in community on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSouthCode 2023</title>
+      <link>https://jmtirado.net/opensouthcode23/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/opensouthcode23/</guid>
+      <description>I had the honour of attending the OpenSouthCode 2023 held at the beatiful Málaga between June 9th and 10th. This is my brief summary of the event, and an invitation for everybody to attend this community-driven event.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
