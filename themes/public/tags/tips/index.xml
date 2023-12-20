@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips on jmtirado.net</title>
+    <link>https://jmtirado.net/tags/tips/</link>
+    <description>Recent content in tips on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Thu, 27 May 2021 10:50:26 +0000</lastBuildDate><atom:link href="https://jmtirado.net/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shell completion with Cobra and Go</title>
+      <link>https://jmtirado.net/shell-completion-with-cobra-and-go/</link>
+      <pubDate>Thu, 27 May 2021 10:50:26 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/shell-completion-with-cobra-and-go/</guid>
+      <description>You probably use a CLI on a daily basis. Depending on the solution the CLI works, the number of available options can be overwhelming. Because no visual recognition is available, we depend on the help to find the correct arguments.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

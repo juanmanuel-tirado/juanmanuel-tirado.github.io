@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on jmtirado.net</title>
+    <link>https://jmtirado.net/tags/opensource/</link>
+    <description>Recent content in opensource on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Emacs is my default programming editor... again</title>
+      <link>https://jmtirado.net/emacs_is_my_default_editor_again/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/emacs_is_my_default_editor_again/</guid>
+      <description>If you&amp;rsquo;re a developer or simply an open-source adopter you have probably come across Emacs. For the eyes of the inexperienced an incomprehensible bunch of letters in an ugly layout, for the experienced an awesome productivity tool.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

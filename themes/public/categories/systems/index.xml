@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems on jmtirado.net</title>
+    <link>https://jmtirado.net/categories/systems/</link>
+    <description>Recent content in Systems on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Fri, 16 Apr 2021 10:03:07 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using the Kafka REST API with Go</title>
+      <link>https://jmtirado.net/using-the-kafka-rest-api-with-go/</link>
+      <pubDate>Fri, 16 Apr 2021 10:03:07 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/using-the-kafka-rest-api-with-go/</guid>
+      <description>This post is an adaption of a fragment extracted from my book Build systems with Go: everything a Gopher must know&amp;quot;. You can find more details here.
+Apache Kafka has demonstrated to be a scalable solution and it is widely adopted as a publish/subscribe event streaming platform.</description>
+      
+    </item>
+    
+    <item>
+      <title>Writing a Programming Book in 2021</title>
+      <link>https://jmtirado.net/writing-a-programming-book-in-2021/</link>
+      <pubDate>Mon, 05 Apr 2021 11:47:17 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/writing-a-programming-book-in-2021/</guid>
+      <description>It is said that there are three things you must do in your lifetime: plant a tree, have a child, and write a book. I recently finished the last one. Nevertheless, I wrote a programming book.</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes services access control with Istio</title>
+      <link>https://jmtirado.net/kubernetes-services-access-control-with-istio/</link>
+      <pubDate>Thu, 04 Jun 2020 09:20:25 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/kubernetes-services-access-control-with-istio/</guid>
+      <description>A forgotten aspect of Kubernetes deployments is access control. Kubernetes assumes services are isolated depending on the namespace they belong to. This is a simple rule of thumb that may be good enough for several solutions.</description>
+      
+    </item>
+    
+    <item>
+      <title>Six tips before you start using Istio</title>
+      <link>https://jmtirado.net/six-tips-before-you-start-using-istio/</link>
+      <pubDate>Tue, 26 May 2020 11:26:29 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/six-tips-before-you-start-using-istio/</guid>
+      <description>A forgotten aspect of Kubernetes deployments is access control. Kubernetes assumes services are isolated depending on the namespace they belong to. This is a simple rule of thumb that may be good enough for several solutions.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

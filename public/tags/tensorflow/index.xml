@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tensorflow on jmtirado.net</title>
+    <link>https://jmtirado.net/tags/tensorflow/</link>
+    <description>Recent content in tensorflow on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Thu, 16 Jul 2020 09:30:22 +0000</lastBuildDate><atom:link href="https://jmtirado.net/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graph processing: a problem with no clear victor</title>
+      <link>https://jmtirado.net/graph-processing-a-problem-with-no-clear-victor/</link>
+      <pubDate>Thu, 16 Jul 2020 09:30:22 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/graph-processing-a-problem-with-no-clear-victor/</guid>
+      <description>We all depend on the Internet to search for potential solutions to technical problems. For example, for big data problems after five minutes in Google you will find out that Spark may help you.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

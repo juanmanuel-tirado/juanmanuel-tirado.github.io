@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on jmtirado.net</title>
+    <link>https://jmtirado.net/tags/machine-learning/</link>
+    <description>Recent content in machine learning on jmtirado.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Juan M. Tirado</copyright>
+    <lastBuildDate>Thu, 14 May 2020 15:24:02 +0000</lastBuildDate><atom:link href="https://jmtirado.net/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What can Borges teach you about overfitting?</title>
+      <link>https://jmtirado.net/what-can-borges-teach-you-about-overfitting/</link>
+      <pubDate>Thu, 14 May 2020 15:24:02 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/what-can-borges-teach-you-about-overfitting/</guid>
+      <description>Jorge Luis Borges (1899-1986) was a brilliant writter and one of the most influential authors of all times. His tales are a must-read for anyone interested in science/science-fiction. But what can Borges teach you about overfitting?</description>
+      
+    </item>
+    
+  </channel>
+</rss>
