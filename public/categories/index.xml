@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Juan M. Tirado</copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opinion</title>
       <link>https://jmtirado.net/categories/opinion/</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jmtirado.net/categories/opinion/</guid>
       <description></description>
@@ -34,36 +34,6 @@
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jmtirado.net/categories/technology/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://jmtirado.net/categories/development/</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://jmtirado.net/categories/development/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>management</title>
-      <link>https://jmtirado.net/categories/management/</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://jmtirado.net/categories/management/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://jmtirado.net/categories/software/</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://jmtirado.net/categories/software/</guid>
       <description></description>
       
     </item>
@@ -94,6 +64,16 @@
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jmtirado.net/categories/opensource/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://jmtirado.net/categories/software/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/categories/software/</guid>
       <description></description>
       
     </item>
@@ -164,6 +144,16 @@
       <pubDate>Tue, 22 Jun 2021 16:12:28 +0000</pubDate>
       
       <guid>https://jmtirado.net/categories/golang/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>dark-theme</title>
+      <link>https://jmtirado.net/categories/dark-theme/</link>
+      <pubDate>Thu, 13 May 2021 11:07:36 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/categories/dark-theme/</guid>
       <description></description>
       
     </item>

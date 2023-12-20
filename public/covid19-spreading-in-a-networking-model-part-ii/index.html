@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="false"><head>
+<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+  data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -28,12 +28,12 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.ac57c702ea5981bd6dddbfe9092871b9009c6bc65b6dc165884ddb24eb3cc7ae7b414139dd7cba2df7a2b694ea8b981a26746b6147c860cfd5139fe6ae0df69a.css"
-    integrity="sha512-rFfHAupZgb1t3b/pCShxuQCca8ZbbcFliE3bJOs8x657QUE53Xy6LfeitpTqi5gaJnRrYUfIYM/VE5/mrg32mg==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.a18beeb076f058b2a19af2155ac41e3f2d5f134b13c5efda587af6ab777aead135748393fa53654b63d3c746d8f90c0780c69f90fa1d0c2c286a10989e3b37b2.css"
+    integrity="sha512-oYvusHbwWLKhmvIVWsQePy1fE0sTxe/aWHr2q3d66tE1dIOT&#43;lNlS2PTx0bY&#43;QwHgMafkPodDCwoahCYnjs3sg==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
-    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
+  <script type="text/javascript" src="/js/appearance.min.de326d12fa4cc95e95f744bf8f186f6ba60068cf5376ee4c1161a452a39e7c4c091cbdc3afeb65d3238d5c6fb2309a1c249d45e1763c54ff13361e118efacb41.js"
+    integrity="sha512-3jJtEvpMyV6V90S/jxhva6YAaM9Tdu5MEWGkUqOefEwJHL3Dr&#43;tl0yONXG&#43;yMJocJJ1F4XY8VP8TNh4RjvrLQQ=="></script>
   
   
   
@@ -154,11 +154,43 @@ Introduction # This notebook is the second part of our analysis of how air traff
   
   
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162071617-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162071617-1');
+</script>
+
   
   
   <meta name="theme-color"/>
   
   
+  <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
@@ -170,7 +202,8 @@ Introduction # This notebook is the second part of our analysis of how air traff
   
   
   <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 pl-[24px] pr-[24px] bg-neutral dark:bg-neutral-800" style="z-index:100">
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
@@ -181,7 +214,7 @@ Introduction # This notebook is the second part of our analysis of how air traff
         <a href="/" class="flex">
             <span class="sr-only">jmtirado.net</span>
 
-            <img src="/img/bio-photo.jpg" width="200" height="200"
+            <img src="/img/favicon-96.png" width="48" height="48"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="jmtirado.net" />
 
         </a>
@@ -200,10 +233,10 @@ Introduction # This notebook is the second part of our analysis of how air traff
             
             
             
-  <a href="/about/"  class="flex items-center">
+  <a href="/posts/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="About">
-        About
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
+        Posts
     </p>
 </a>
 
@@ -220,10 +253,20 @@ Introduction # This notebook is the second part of our analysis of how air traff
 
             
             
-  <a href="/posts/"  class="flex items-center">
+  <a href="/publications/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
-        Posts
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Publications">
+        Publications
+    </p>
+</a>
+
+
+            
+            
+  <a href="/about/"  class="flex items-center">
+    
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="About">
+        About
     </p>
 </a>
 
@@ -251,32 +294,6 @@ Introduction # This notebook is the second part of our analysis of how air traff
 
             
             
-            <div
-                class="ltr:mr-14 rtl:ml-14 cursor-pointer text-sm text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400">
-                <button id="appearance-switcher" aria-label="Dark mode switcher" type="button">
-                    <div class="flex items-center justify-center h-12 dark:hidden">
-                        
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
-
-  </span>
-
-
-                    </div>
-                    <div class="items-center justify-center hidden h-12 dark:flex">
-                        
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
-
-  </span>
-
-
-                    </div>
-                </button>
-            </div>
-            
 
         </nav>
         <div class="flex md:hidden items-center space-x-5 md:ml-12">
@@ -301,29 +318,6 @@ Introduction # This notebook is the second part of our analysis of how air traff
             
 
             
-            
-            <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button" style="margin-right:5px">
-                <div class="flex items-center justify-center h-12 dark:hidden">
-                    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
-
-  </span>
-
-
-                </div>
-                <div class="items-center justify-center hidden h-12 dark:flex">
-                    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
-
-  </span>
-
-
-                </div>
-            </button>
             
 
         </div>
@@ -364,10 +358,10 @@ Introduction # This notebook is the second part of our analysis of how air traff
 
                     
   <li class="mt-1">
-    <a href="/about/"  class="flex items-center">
+    <a href="/posts/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="About">
-            About
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
+            Posts
         </p>
     </a>
 </li>
@@ -392,10 +386,24 @@ Introduction # This notebook is the second part of our analysis of how air traff
 
                     
   <li class="mt-1">
-    <a href="/posts/"  class="flex items-center">
+    <a href="/publications/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
-            Posts
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Publications">
+            Publications
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/about/"  class="flex items-center">
+        
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="About">
+            About
         </p>
     </a>
 </li>
@@ -429,6 +437,13 @@ Introduction # This notebook is the second part of our analysis of how air traff
 
   </div>
 </div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -475,43 +490,6 @@ Introduction # This notebook is the second part of our analysis of how air traff
 
   <header id="single_header" class="mt-5 max-w-prose">
     
-    <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
-  
-  
-    
-  
-    
-  
-  <li class="inline hidden">
-    <a
-      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
-      href="/"
-      >jmtirado.net</a
-    ><span class="px-1 text-primary-500">/</span>
-  </li>
-
-  
-  <li class="inline ">
-    <a
-      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
-      href="/posts/"
-      >posts</a
-    ><span class="px-1 text-primary-500">/</span>
-  </li>
-
-  
-  <li class="inline hidden">
-    <a
-      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
-      href="/covid19-spreading-in-a-networking-model-part-ii/"
-      >Covid19 spreading in a networking model (part II)</a
-    ><span class="px-1 text-primary-500">/</span>
-  </li>
-
-</ol>
-
-
-    
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
       Covid19 spreading in a networking model (part II)
     </h1>
@@ -551,12 +529,10 @@ Introduction # This notebook is the second part of our analysis of how air traff
 
 
 
-
-
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2020-04-30 15:15:50 &#43;0000 UTC">30 April 2020</time><span class="px-2 text-primary-500">&middot;</span><span>2132 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">11 mins</span>
+  <time datetime="2020-04-30 15:15:50 &#43;0000 UTC">30 April 2020</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">11 mins</span>
   
 
   
@@ -703,15 +679,6 @@ Introduction # This notebook is the second part of our analysis of how air traff
     
     
 <div class="flex">
-  
-  
-  
-  
-  
-  
-  <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
-    alt="Juan M. Tirado" src="/img/bio-photo_hu4c9a28a47b73a360a3fd1a8f82b27733_27393_192x192_fill_q75_box_center.jpg" />
-  
   
   <div class="place-self-center">
     
@@ -1796,6 +1763,10 @@ Without loops -&gt; vertices: 225 and edges 4558
   <a href="/covid19-spreading-in-a-networking-model-part-i/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_5894069_600x0_resize_q75_box.jpg);"></div>
+        
+      
 
       <div class="px-6 py-4">
 
@@ -1837,12 +1808,10 @@ Without loops -&gt; vertices: 225 and edges 4558
 
 
 
-
-
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2020-04-17 11:42:27 &#43;0000 UTC">17 April 2020</time><span class="px-2 text-primary-500">&middot;</span><span>2590 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">13 mins</span>
+  <time datetime="2020-04-17 11:42:27 &#43;0000 UTC">17 April 2020</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">13 mins</span>
   
 
   
@@ -2003,6 +1972,10 @@ Without loops -&gt; vertices: 225 and edges 4558
   <a href="/covid-19-interactive-plots/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_5894069_600x0_resize_q75_box.jpg);"></div>
+        
+      
 
       <div class="px-6 py-4">
 
@@ -2044,12 +2017,10 @@ Without loops -&gt; vertices: 225 and edges 4558
 
 
 
-
-
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2020-03-30 17:37:09 &#43;0000 UTC">30 March 2020</time><span class="px-2 text-primary-500">&middot;</span><span>1717 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">9 mins</span>
+  <time datetime="2020-03-30 17:37:09 &#43;0000 UTC">30 March 2020</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">9 mins</span>
   
 
   
@@ -2177,6 +2148,10 @@ Without loops -&gt; vertices: 225 and edges 4558
   <a href="/covid19-visualization/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_5894069_600x0_resize_q75_box.jpg);"></div>
+        
+      
 
       <div class="px-6 py-4">
 
@@ -2218,12 +2193,10 @@ Without loops -&gt; vertices: 225 and edges 4558
 
 
 
-
-
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2020-03-27 18:09:57 &#43;0000 UTC">27 March 2020</time><span class="px-2 text-primary-500">&middot;</span><span>1601 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">8 mins</span>
+  <time datetime="2020-03-27 18:09:57 &#43;0000 UTC">27 March 2020</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">8 mins</span>
   
 
   
@@ -2359,15 +2332,19 @@ Without loops -&gt; vertices: 225 and edges 4558
   
   
 
-  <a href="/the-many-challenges-of-graph-processing/" class="min-w-full">
+  <a href="/posts/2020-07-22-the-many-challenges-of-graph-processing/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_5894069_600x0_resize_q75_box.jpg);"></div>
+        
+      
 
       <div class="px-6 py-4">
 
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/the-many-challenges-of-graph-processing/">The many challenges of graph processing</div>
+          href="/posts/2020-07-22-the-many-challenges-of-graph-processing/">The many challenges of graph processing</div>
         
 
         <div class="text-sm text-neutral-500 dark:text-neutral-400">
@@ -2403,12 +2380,10 @@ Without loops -&gt; vertices: 225 and edges 4558
 
 
 
-
-
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2020-07-22 09:10:37 &#43;0000 UTC">22 July 2020</time><span class="px-2 text-primary-500">&middot;</span><span>1150 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+  <time datetime="2020-07-22 09:10:37 &#43;0000 UTC">22 July 2020</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
   
 
   
@@ -2547,6 +2522,10 @@ Without loops -&gt; vertices: 225 and edges 4558
   <a href="/graph-processing-a-problem-with-no-clear-victor/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_5894069_600x0_resize_q75_box.jpg);"></div>
+        
+      
 
       <div class="px-6 py-4">
 
@@ -2588,12 +2567,10 @@ Without loops -&gt; vertices: 225 and edges 4558
 
 
 
-
-
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2020-07-16 09:30:22 &#43;0000 UTC">16 July 2020</time><span class="px-2 text-primary-500">&middot;</span><span>629 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+  <time datetime="2020-07-16 09:30:22 &#43;0000 UTC">16 July 2020</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
   
 
   
@@ -2759,12 +2736,15 @@ Without loops -&gt; vertices: 225 and edges 4558
     
     
     
+      
+      
+    
     <div class="pt-8">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/covid19-spreading-in-a-networking-model-part-i/">
+            <a class="flex group mr-3" href="/posts/2020-05-10-why-you-should-learn-latex-or-at-least-give-it-a-try/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -2776,11 +2756,11 @@ Without loops -&gt; vertices: 225 and edges 4558
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Covid19 spreading in a networking model (part I)</span
+                  >Why should you learn LaTeX, or at least give it a try?</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2020-04-17 11:42:27 &#43;0000 UTC">17 April 2020</time>
+                    <time datetime="2020-05-10 18:35:13 &#43;0000 UTC">10 May 2020</time>
                   
                 </span>
               </span>
@@ -2789,15 +2769,15 @@ Without loops -&gt; vertices: 225 and edges 4558
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/why-you-should-learn-latex-or-at-least-give-it-a-try/">
+            <a class="flex text-right group ml-3" href="/covid19-spreading-in-a-networking-model-part-i/">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Why should you learn LaTeX, or at least give it a try?</span
+                  >Covid19 spreading in a networking model (part I)</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2020-05-10 18:35:13 &#43;0000 UTC">10 May 2020</time>
+                    <time datetime="2020-04-17 11:42:27 &#43;0000 UTC">17 April 2020</time>
                   
                 </span>
               </span>

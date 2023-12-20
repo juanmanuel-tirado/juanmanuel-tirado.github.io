@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Juan M. Tirado</copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migration from Jekyll to Hugo</title>
+      <link>https://jmtirado.net/posts/20231220_hugo_migration/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/posts/20231220_hugo_migration/</guid>
+      <description>On July 2022 I decided to migrate from Wordpress to Jekyll and host the blog on GitHub (see my previous post ( here).
+Why another migration? # There is not a particular reason for this.</description>
+      
+    </item>
+    
     <item>
       <title>Why Emacs is my default programming editor... again</title>
       <link>https://jmtirado.net/emacs_is_my_default_editor_again/</link>
@@ -15,16 +26,6 @@
       
       <guid>https://jmtirado.net/emacs_is_my_default_editor_again/</guid>
       <description>If you&amp;rsquo;re a developer or simply an open-source adopter you have probably come across Emacs. For the eyes of the inexperienced an incomprehensible bunch of letters in an ugly layout, for the experienced an awesome productivity tool.</description>
-      
-    </item>
-    
-    <item>
-      <title>Why 1:1 meetings must be taken seriously</title>
-      <link>https://jmtirado.net/one-on-one-meetings/</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://jmtirado.net/one-on-one-meetings/</guid>
-      <description>I&amp;rsquo;ve been reading The Manager&amp;rsquo;s Path from Camille Fournier. This is a classic resource for those looking for some advices about management, specially in the software development sector. I&amp;rsquo;m not going to comment the book, you can already find good reviews all around there.</description>
       
     </item>
     
@@ -172,10 +173,10 @@ Apache Kafka has demonstrated to be a scalable solution and it is widely adopted
     
     <item>
       <title>The many challenges of graph processing</title>
-      <link>https://jmtirado.net/the-many-challenges-of-graph-processing/</link>
+      <link>https://jmtirado.net/posts/2020-07-22-the-many-challenges-of-graph-processing/</link>
       <pubDate>Wed, 22 Jul 2020 09:10:37 +0000</pubDate>
       
-      <guid>https://jmtirado.net/the-many-challenges-of-graph-processing/</guid>
+      <guid>https://jmtirado.net/posts/2020-07-22-the-many-challenges-of-graph-processing/</guid>
       <description>In a previous post I exposed my opinion about the lack of a clear platform/solution/framework/architecture for graph processing. However, what are the main issues graph processing has to deal with? Serve these lines as an appetizer for the curious minds out there.</description>
       
     </item>
@@ -222,10 +223,10 @@ Apache Kafka has demonstrated to be a scalable solution and it is widely adopted
     
     <item>
       <title>Why should you learn LaTeX, or at least give it a try?</title>
-      <link>https://jmtirado.net/why-you-should-learn-latex-or-at-least-give-it-a-try/</link>
+      <link>https://jmtirado.net/posts/2020-05-10-why-you-should-learn-latex-or-at-least-give-it-a-try/</link>
       <pubDate>Sun, 10 May 2020 18:35:13 +0000</pubDate>
       
-      <guid>https://jmtirado.net/why-you-should-learn-latex-or-at-least-give-it-a-try/</guid>
+      <guid>https://jmtirado.net/posts/2020-05-10-why-you-should-learn-latex-or-at-least-give-it-a-try/</guid>
       <description>If you have to write down a document you will run your default text processor (probably MS Word) and you will not consider any other option. This processor will fulfil all your needs.</description>
       
     </item>

@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Juan M. Tirado</copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/categories/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migration from Jekyll to Hugo</title>
+      <link>https://jmtirado.net/posts/20231220_hugo_migration/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmtirado.net/posts/20231220_hugo_migration/</guid>
+      <description>On July 2022 I decided to migrate from Wordpress to Jekyll and host the blog on GitHub (see my previous post ( here).
+Why another migration? # There is not a particular reason for this.</description>
+      
+    </item>
+    
     <item>
       <title>Why Emacs is my default programming editor... again</title>
       <link>https://jmtirado.net/emacs_is_my_default_editor_again/</link>
