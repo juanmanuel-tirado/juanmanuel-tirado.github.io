@@ -4,9 +4,11 @@ title: "Publications"
 date: 2023-12-20
 ---
 
+This is a list of my contributions outside the Internet.
+
 ## Public events
 
-*[OpenSouthCode23](https://www.opensouthcode.org/conferences/opensouthcode2023) (June 9th). **Juju or how to deploy your applications magically**
+* [OpenSouthCode23](https://www.opensouthcode.org/conferences/opensouthcode2023) (June 9th). **Juju or how to deploy your applications magically**
 Applications can be deployed on a large variety of platforms: bare metal, private clouds, virtual machines, public clouds (AWS, Azure, GCE), etc. Afterwards, they have to be updated, configured, and maintained. This requires a lot of work, a deep understanding of the platforms, and imposes additional complexity to your solutions. I will show you what Juju and the Charmed Operator Lifecycle Manager can do to simplify your deployments and let you focus on what is really important.
 [Link](https://www.opensouthcode.org/conferences/opensouthcode2023/program/proposals/549)
 
