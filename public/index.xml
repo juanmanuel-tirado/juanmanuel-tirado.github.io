@@ -16,7 +16,7 @@
       <guid>https://jmtirado.net/posts/20231220_hugo_migration/</guid>
       <description>On July 2022 I decided to migrate from Wordpress to Jekyll and host the blog on GitHub (see my previous post ( here).
 Why another migration? # There is not a particular reason for this.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jmtirado.net/posts/20231220_hugo_migration/featured_hugo.png" />
     </item>
     
     <item>
@@ -25,7 +25,8 @@ Why another migration? # There is not a particular reason for this.</description
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jmtirado.net/publications/</guid>
-      <description>Public events # * OpenSouthCode23 (June 9th). Juju or how to deploy your applications magically Applications can be deployed on a large variety of platforms: bare metal, private clouds, virtual machines, public clouds (AWS, Azure, GCE), etc.</description>
+      <description>This is a list of my contributions outside the Internet.
+Public events # OpenSouthCode23 (June 9th). Juju or how to deploy your applications magically Applications can be deployed on a large variety of platforms: bare metal, private clouds, virtual machines, public clouds (AWS, Azure, GCE), etc.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jmtirado.net/publications/feature_publications.jpg" />
     </item>
     

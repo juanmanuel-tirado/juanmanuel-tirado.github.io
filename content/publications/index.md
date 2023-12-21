@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 date: 2023-12-20
+showReadingTime: false
 ---
 
 This is a list of my contributions outside the Internet.

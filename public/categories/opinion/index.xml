@@ -16,7 +16,7 @@
       <guid>https://jmtirado.net/posts/20231220_hugo_migration/</guid>
       <description>On July 2022 I decided to migrate from Wordpress to Jekyll and host the blog on GitHub (see my previous post ( here).
 Why another migration? # There is not a particular reason for this.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jmtirado.net/posts/20231220_hugo_migration/featured_hugo.png" />
     </item>
     
     <item>
