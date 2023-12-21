@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://jmtirado.net/resume/</loc>
+    <lastmod>2023-12-20T23:29:17+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://jmtirado.net/posts/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

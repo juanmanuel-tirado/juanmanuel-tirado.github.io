@@ -8,14 +8,14 @@ title = "jmtirado.net"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/favicon-96.png"
-  secondaryLogo = "img/favicon-96.png"
+  # logo = "favicon-32x32.png"
+  # secondaryLogo = "favicon-32x32.png"
   description = "Juan M. Tirado"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Juan M. Tirado"
-   # image = "img/bio-photo.jpg"
+   #image = "favicon-32x32.png"
    headline = "Distributed Systems and Data"
    bio = "Computer scientist interested in data and large scale distributed systems. I enjoy music, mountaneering, and tapas in no particular order."
    links = [

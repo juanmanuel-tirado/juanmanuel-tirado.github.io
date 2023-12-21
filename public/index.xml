@@ -9,6 +9,16 @@
     <copyright>© 2023 Juan M. Tirado</copyright>
     <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmtirado.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Resume</title>
+      <link>https://jmtirado.net/resume/</link>
+      <pubDate>Wed, 20 Dec 2023 23:29:17 +0100</pubDate>
+      
+      <guid>https://jmtirado.net/resume/</guid>
+      <description>Professional Experience # Company Link Role Dates Location Canonical Engineering manager July 2021 &amp;ndash; July 2023 Remote Nalej VP Ecosystem Software and Services (Data/ML/AI) September 2017 &amp;ndash; July 2021 Madrid Novelti Senior Information Technology Architect July 2016 &amp;ndash; August 2017 Madrid University of Cambridge Research Associate April 2015 &amp;ndash; April 2016 Cambridge (UK) INRIA Postdoctoral Research Scientist April 2013 &amp;ndash; April 2015 Rennes (France) Education # [2009&amp;ndash;2013] UC3M PhD Computer Science</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jmtirado.net/resume/feature_resume.jpg" />
+    </item>
+    
+    <item>
       <title>Migration from Jekyll to Hugo</title>
       <link>https://jmtirado.net/posts/20231220_hugo_migration/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
@@ -26,7 +36,8 @@ Why another migration? # There is not a particular reason for this.</description
       
       <guid>https://jmtirado.net/publications/</guid>
       <description>This is a list of my contributions outside the Internet.
-Public events # OpenSouthCode23 (June 9th). Juju or how to deploy your applications magically Applications can be deployed on a large variety of platforms: bare metal, private clouds, virtual machines, public clouds (AWS, Azure, GCE), etc.</description>
+Public events # OpenSouthCode23 (June 9th).
+Juju or how to deploy your applications magically Applications can be deployed on a large variety of platforms: bare metal, private clouds, virtual machines, public clouds (AWS, Azure, GCE), etc.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jmtirado.net/publications/feature_publications.jpg" />
     </item>
     
@@ -154,7 +165,7 @@ Apache Kafka has demonstrated to be a scalable solution and it is widely adopted
     </item>
     
     <item>
-      <title>BUILD SYSTEMS with GO</title>
+      <title>Build Systems with Go</title>
       <link>https://jmtirado.net/build-systems-with-go/</link>
       <pubDate>Mon, 05 Apr 2021 06:57:36 +0200</pubDate>
       
