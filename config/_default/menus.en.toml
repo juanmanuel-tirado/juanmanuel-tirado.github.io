@@ -26,9 +26,14 @@
   weight = 30
 
 [[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 40
+
+[[main]]
   name = "About"
   pageRef = "about"
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 1"

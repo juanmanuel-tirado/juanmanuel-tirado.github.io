@@ -12,6 +12,11 @@ html {
     font-size: 14pt;
 }
 
+/* Set vertical alignment for images in tables */
+td {
+    vertical-align: middle !important;
+}
+
 /* taken from http://www.ebadf.net/2016/10/19/centering-images-in-hugo/ */
 img[src$='#center']
 {

@@ -1,6 +1,9 @@
 ---
 title: 'About'
 date: 2023-12-19T15:29:17+01:00
+
+showDate: false
+showReadingTime: false
 ---
 
 
