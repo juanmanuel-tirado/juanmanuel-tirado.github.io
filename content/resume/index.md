@@ -4,7 +4,8 @@ date: 2023-12-20T23:29:17+01:00
 
 showTableOfContents: true
 showReadingTime: false
-sharingLinks: false 
+sharingLinks: false
+showDate: false
 ---
 
 ## Professional Experience
@@ -35,16 +36,16 @@ sharingLinks: false
   
   Introduction course for banking employees on how to use ML and data processing. The course included the main concepts of ML and data processing using Python and SciKit with and introduction to PySpark and big data.
   
-* [**2016**] __[U-TAD](https://u-tad.com/):__ __Master in Big data__
+* [**2016**] __[U-TAD](https://u-tad.com/):__ __MSc. in Big data__
   
   Introduction and advanced topics on ML and data processing. Practical work on how to use PySpark, Kafka, and stream processing.
   
-* [**2015**] __[University of Cambridge](https://www.cam.ac.uk):__ __Master in Big Data__
+* [**2015**] __[University of Cambridge](https://www.cam.ac.uk):__ __MSc. in Big Data__
   
   Assistant during the graph processing related lessons
   
 * [**2011--2013**] __[UC3M](https://www.uc3m.es):__ __Computer Architecture__
   
-  In the context of the BSc in Computer Science at the Universidad Carlos III de Madrid, I was in charge of this course. Topics: parallel processing, distributed memory, computers architecture, high performance computing.
+  In the context of the BSc. in Computer Science at the Universidad Carlos III de Madrid, I was in charge of this course. Topics: parallel processing, distributed memory, computers architecture, high performance computing.
 
  
