@@ -4,6 +4,7 @@ date: 2023-12-19T15:29:17+01:00
 
 showDate: false
 showReadingTime: false
+sharingLinks: false
 ---
 
 
@@ -17,6 +18,10 @@ I am a computer scientist with a particular interest in how data can leverage la
 Why this blog?
 
 I collect a large a mount of examples, solutions, and ideas on a daily basis. This is a good channel to share this content with a broader audience. Maybe somebody will find it useful.
+
+Take a look at my most recent [posts]({{< ref "posts" >}}) or my past [publications]({{< ref "publications" >}}).
+
+If you're interested in Go and/or distributed systems, I published [Build Systems with Go]({{< ref "build-systems-with-go" >}}).
 
 ## How can I contact you?
 

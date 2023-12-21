@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "Build systems with go"
+  name = "Build Systems with Go"
   pageRef = "build-systems-with-go"
   weight = 20
 
