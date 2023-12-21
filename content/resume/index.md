@@ -21,13 +21,13 @@ showDate: false
 
 ## Education
 
-* [**2009--2013**] [UC3M](https://www.uc3m.es) __PhD Computer Science__
+* [**2009--2013**] [UC3M](https://www.uc3m.es) __PhD in Computer Science__
 
   My PhD entitled **"Methods to enhance content distribution for very large scale online communities"** got *cum laude* and was awarded with the *2013 extraordinary thesis award*. You can download the manuscript [here](https://e-archivo.uc3m.es/bitstream/handle/10016/17178/tesis_juan-manuel_tirado_martin_2013.pdf?sequence=1&isAllowed=y) or visit the [University's repo](https://e-archivo.uc3m.es/handle/10016/17178). For more information regarding my research activities take a look at the [publications section]({{< ref "/publications" >}}).
 
-* [**2007--2009**] [UC3M](https://www.uc3m.es) __MSc. Computer Science__
+* [**2007--2009**] [UC3M](https://www.uc3m.es) __MSc. in Computer Science__
 
-* [**2002--2007**] [UC3M](https://www.uc3m.es) __BSc. Computer Science__
+* [**2002--2007**] [UC3M](https://www.uc3m.es) __BSc. in Computer Science__
 
 
 ## Teaching activities
