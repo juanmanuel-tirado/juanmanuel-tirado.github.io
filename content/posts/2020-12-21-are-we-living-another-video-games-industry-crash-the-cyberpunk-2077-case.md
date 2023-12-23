@@ -4,9 +4,6 @@ categories:
 - Software
 - Technology
 - videogames
-clases:
-- wide
-- dark-theme
 date: "2020-12-21T15:42:55Z"
 excerpt: The most awaited video game of 2020 is a collection of bugs with a frustrating
   user experience. This is not something new in the video game industry.

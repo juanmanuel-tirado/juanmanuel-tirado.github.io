@@ -2,9 +2,6 @@
 categories:
 - Opinion
 - Technology
-clases:
-- wide
-- dark-theme
 date: "2020-09-23T08:45:11Z"
 excerpt: Edge Computing promises millions of dollars of revenue. However, we do not
   yet have a definition of what it is.

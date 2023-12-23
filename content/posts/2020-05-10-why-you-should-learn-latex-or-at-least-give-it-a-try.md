@@ -1,13 +1,13 @@
 ---
 categories:
 - Software
-- dark-theme
 date: "2020-05-10T18:35:13Z"
 excerpt: ' LaTeX is one of the most successful and amazing free software projects
   ever done. It has been around for more than thirty years with two Turing awarded
   researchers directly participating in its design and implementation. LaTeX must
   have something special. Hopefully, after reading this post you will consider giving
   it a try.'
+url: "/why-you-should-learn-latex-or-at-least-give-it-a-try/"
 mathjax: true
 tags:
 - latex

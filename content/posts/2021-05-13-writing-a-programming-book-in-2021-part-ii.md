@@ -4,7 +4,6 @@ categories:
 - Opinion
 - Programming
 - Software
-- dark-theme
 date: "2021-05-13T11:07:36Z"
 excerpt: This post is a continuation of a previous where I explained some aspects
   of my experience writing and self-publishing a programming book.
