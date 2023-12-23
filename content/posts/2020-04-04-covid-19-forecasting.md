@@ -1,9 +1,6 @@
 ---
 categories:
 - Data science
-clases:
-- wide
-- dark-theme
 date: "2020-04-04T09:07:15Z"
 excerpt: This is the third part of our series about Covid19 data analysis. We introduce
   some practical examples of univariate time series forecasting.

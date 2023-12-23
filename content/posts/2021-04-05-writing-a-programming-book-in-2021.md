@@ -7,7 +7,6 @@ categories:
 - Programming
 - Software
 - Systems
-
 date: "2021-04-05T11:47:17Z"
 tags:
 - books
