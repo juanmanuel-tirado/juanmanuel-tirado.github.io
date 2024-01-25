@@ -15,7 +15,7 @@ I have released a tutorial of the [Spark machine learning library (MLlib)](https
 The corresponding Jupyter Notebook is available [here](https://github.com/juanmanuel-tirado/pyspark-tutorial). If you want to fork the repo:
 
 ```sh
-git clone https://github.com/juanmanuel-tirado/pyspark-tutorial/blob/main/pyspark-ml.ipynb
+git clone https://github.com/juanmanuel-tirado/pyspark-tutorial
 ```
 
 Additionally, you can see the rendered version below.
