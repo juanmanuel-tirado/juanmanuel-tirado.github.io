@@ -3,7 +3,7 @@ title: Migration from Jekyll to Hugo
 categories:
 - Opinion
 tags:
-- optinion
+- opinion
 date: 2023-12-20
 excerpt: The blog has been migrated from Jekyll to Hugo
 ---
