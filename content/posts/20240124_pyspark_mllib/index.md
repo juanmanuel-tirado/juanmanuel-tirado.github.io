@@ -2,10 +2,13 @@
 title: "PySpark MLlib tutorial"
 categories:
 - Tutorials
-- Software
-- MachineLearning
-- Data
+tags:
+- python
+- spark
+- machinelearning
+- data
 date: 2024-01-24
+excerpt: A gentle introduction to ML with PySpark
 ---
 
 If you're familiar with [Spark](https://spark.apache.org/]) you probably know it offers a Python framework named [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) that enables developers to use the existing Spark libraries. 
