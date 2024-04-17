@@ -12,6 +12,7 @@ showDate: false
 
 | Company  | Link  | Role  | Dates  | Location  |
 |:--|:--|:--|:--|:--|
+|![Bitpanda](Bitpanda_logo.png#floatleft)   | [Bitpanda](https://bitpanda.com)  | Engineering manager  | Since April 2024 | Remote  |
 |![Canonical](Canonical_logo_2023.svg.png#floatleft)   | [Canonical](https://canonical.com)  | Engineering manager  | July 2021 -- July 2023  | Remote  |
 | ![Nalej](nalej.svg#floatleft)  | [Nalej](https://nalej.com)  | VP Ecosystem Software and Services (Data/ML/AI)  | September 2017 -- July 2021  | Madrid  |
 | ![Novelti](logo-novelti-45-2.png#center)  | [Novelti](https://novelti.io) |  Senior Information Technology Architect  | July 2016 -- August 2017  | Madrid  |
