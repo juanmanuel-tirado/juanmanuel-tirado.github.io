@@ -6,9 +6,16 @@ showReadingTime: false
 showDate: false
 ---
 
-This is a list of my contributions outside the Internet.
-
 ## Public events
+
+### 2024
+
+* [European Blockchain Convention](https://eblockchainconvention.com/european-blockchain-convention-10/)(September 25-26th)
+
+  **Infrastructure interoperability and Multi-chain networks**
+  Panel discussion about the complexity of the current blockchain scenario and the challenges for real interoperability.
+
+### 2023
 
 * [OpenSouthCode23](https://www.opensouthcode.org/conferences/opensouthcode2023) (June 9th). 
 
